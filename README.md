@@ -1,13 +1,13 @@
 <img class="alignnone size-full wp-image-163" src="https://getpython.files.wordpress.com/2019/09/maxresdefault.jpg" alt="maxresdefault.jpg" width="1280" height="720" />
 
-Hi readers, are you guys using ubuntu? , have you guys bored by using the same user interface ? then this post for you. In this post I am gonna show you how you can coustomise your ubuntu interface in just few steps and make it like Mac os. So without wating anymore time let's dive in.
-<h3>Step 1: Dwonload all required files form this <a href="https://drive.google.com/file/d/1ObDZn6e-4Zrv1CRJZR4MC3RzF2oPQ4ze/view" target="_blank" rel="noopener">link</a></h3>
-<h3>Step 2: Install gnome tweak tool by the following command</h3>
+Hi readers, are you guys using ubuntu? , have you guys bored by using the same user interface? then this post for you. In this post, I am gonna show you how you can customize your ubuntu interface in just a few steps and make it like Mac os. So without wasting any more time let's dive in.
+<h3>Step 1: Download all required files form this <a href="https://drive.google.com/file/d/1ObDZn6e-4Zrv1CRJZR4MC3RzF2oPQ4ze/view" rel="noopener">link</a></h3>
+<h3>Step 2: Install the gnome tweak tool by the following command</h3>
 <pre>sudo apt-get install -y gnome-tweak-tool</pre>
-<h3>step 3: Install chrome gnome shell by this command</h3>
+<h3>step 3: Install chrome gnome-shell by this command</h3>
 <pre>sudo apt-get install -y chrome-gnome-shell</pre>
 <h3>Step 4: open firefox/chrome and go to this website "https://extensions.gnome.org/"</h3>
-Here search user-theme in gnome extention click on that and see toggle on-off button , turn it On and a popup appear for install extention click on install
+Here search user-theme in gnome extension click on that and see toggle on-off button, turn it On and a popup appear for install extension click on install
 
 <img class="alignnone size-full wp-image-156" src="https://getpython.files.wordpress.com/2019/09/screenshot-from-2019-09-23-03-49-42.png" alt="Screenshot from 2019-09-23 03-49-42" width="1295" height="448" />
 <h3>Step 5: Extract all files that you download from step1</h3>
@@ -66,24 +66,24 @@ when it will open click on On toggle button it will install ASAP
 <h3></h3>
 <h3>Step 9:Now open XO.for.Dash.to.DOCK this directory and perform some commands</h3>
 "XO.for.Dash.to.DOCK/DOCK Settings/Gnome Version 3.30 - 3.32.md" open it and run all command in your terminal one by one.
-<h3>Step 10: Time to work on lock screen</h3>
-Go to this link "https://www.gnome-look.org/p/1207015/" and go to its files setcion download files according to your Unbuntu version
+<h3>Step 10: Time to work on the lock screen</h3>
+Go to this link "https://www.gnome-look.org/p/1207015/" and go to its files section download files according to your Unbuntu version
 and extract it.
 
-now open this folder and locate install.sh file , now open terminal here and paste two following commands.
+now open this folder and locate install.sh file, now open terminal here and paste two following commands.
 <ul>
 	<li>sudo chmod +x install.sh</li>
 	<li>./install.sh</li>
 </ul>
-now go to the folder where have extracted "HighSierra-wallpapers" this folder , now open it right click on wallpaper which you want to set as background.
+now go to the folder where have extracted "HighSierra-wallpapers" this folder, now open it right click on wallpaper which you want to set as background.
 <ul>
-	<li>now right click on in and select set as wallpaper</li>
-	<li>now again right click on same image and you will see script option in this menu click on and select setAsWallpaper option.</li>
+	<li>now right-click on in and select set as wallpaper</li>
+	<li>now again right-click on the same image and you will see script option in this menu click on and select set as wallpaper option.</li>
 </ul>
-<h3>Step 11: customise top bar</h3>
+<h3>Step 11: customize the top bar</h3>
 <ul>
 	<li>go to this link "https://extensions.gnome.org/extension/104/netspeed/" and turn it ON.</li>
-	<li>open tweak and go to the top bar , here enable battery percentage</li>
+	<li>open tweak and go to the top bar, here enable battery percentage</li>
 </ul>
 <img class="alignnone size-full wp-image-161" src="https://getpython.files.wordpress.com/2019/09/screenshot-from-2019-09-23-04-23-11.png" alt="Screenshot from 2019-09-23 04-23-11" width="1203" height="406" />
 <h3>Step 12: Configure fonts settings</h3>
@@ -91,5 +91,5 @@ make cahnges as mentioned in this screenshots
 
 <img class="alignnone size-full wp-image-162" src="https://getpython.files.wordpress.com/2019/09/screenshot-from-2019-09-23-04-26-03.png" alt="Screenshot from 2019-09-23 04-26-03" width="1360" height="531" />
 <h1></h1>
-<h1>I Hope you guys have followed all the steps and it worked for you, thankyou for reading this article</h1>
+<h1>I hope you guys have followed all the steps and it worked for you, thank you for reading this article</h1>
  
